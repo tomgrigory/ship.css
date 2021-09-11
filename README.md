@@ -1,6 +1,6 @@
 # ship.css
 suck at writing css? ship.css is a shipping ready minimal css framework for people who are bad at design. 
-checkout how it looks like: coming soon (https://shipcss.now.sh)
+checkout how it looks like: https://shipcss.netlify.app
 
  ### how to use:
 
