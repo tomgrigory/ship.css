@@ -7,4 +7,8 @@ checkout how it looks like: coming soon (https://shipcss.now.sh)
 
 Clone this repo or Deploy to Vercel directly
 
+[![image](https://user-images.githubusercontent.com/63632056/132941007-c46bb572-4cc7-4806-84d6-ec29c910d7b4.png)
+](https://app.netlify.com/start/deploy?repository=https://github.com/tomgrigory/ship.css)
+
+
 that's it, hope you love ship.css. im always down for fun conversations, [let's chat?](https://twitter.com/tomgrigory)
