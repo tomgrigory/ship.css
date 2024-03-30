@@ -1,4 +1,4 @@
-# ship.css
+# ship.css(not maintained)
 suck at writing css? ship.css is a shipping ready minimal css framework for people who are bad at design. 
 
 checkout how it looks: https://shipcss.netlify.app
